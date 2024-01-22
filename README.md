@@ -1,4 +1,4 @@
-# Hi there 👋, DIALLO Abdoul Aziz
+# Hi there 👋, I'm DIALLO Abdoul Aziz
 #### 3rd Year Student in Computer Science 👨‍💻 
 ![3rd Year Student in Computer Science 👨‍💻 ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
