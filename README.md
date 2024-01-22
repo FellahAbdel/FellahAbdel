@@ -1,4 +1,4 @@
-![3rd Year Student in Computer Science 👨‍💻 ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![3rd Year Student in Computer Science 👨‍💻 ](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 # DIALLO Abdoul Aziz
 #### 3rd Year Student in Computer Science 👨‍💻 
@@ -16,5 +16,6 @@ I'm DIALLO from Guinea. Ever since I was a child, I harbored a deep passion and 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FellahAbdel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/diallo-abdoul-aziz-b174951bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](fellah.alwaysdata.net)  
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fellahabdel&show_icons=true&locale=en&layout=compact" alt="fellahabdel" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FellahAbdel)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fellahabdel&show_icons=true&locale=en" alt="fellahabdel" /></p>
