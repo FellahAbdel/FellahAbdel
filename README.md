@@ -1,7 +1,7 @@
-![3rd Year Student in Computer Science 👨‍💻 ](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![Master’s Student in Software Engineering 👨‍💻 ](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 # DIALLO Abdoul Aziz
-#### 3rd Year Student in Computer Science 👨‍💻 
+#### Master’s Student in Software Engineering 👨‍💻 
 
 I'm DIALLO. Ever since I was a child, I harbored a deep passion and curiosity for mobile phones, constantly exploring their settings and functionalities. As I matured from basic cellphones to smartphones and computers, I sensed a calling to delve further into the captivating, enjoyable, and challenging realm of technology. Following my high school diploma, I ventured to Morocco to study Mathematics, Physics, and a touch of Computer Science. Subsequently, I relocated to France to immerse myself in the world of Computer Science, relishing the opportunity to delve into languages such as C, Java, JavaScript, Python, and more. I find great satisfaction in constructing compelling and demanding projects.
 
